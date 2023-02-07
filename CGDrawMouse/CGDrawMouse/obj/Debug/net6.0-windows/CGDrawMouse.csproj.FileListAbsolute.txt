@@ -1,0 +1,17 @@
+C:\Users\Administrator\Desktop\CGMouse\CGDrawMouse\CGDrawMouse\bin\Debug\net6.0-windows\CGDrawMouse.exe
+C:\Users\Administrator\Desktop\CGMouse\CGDrawMouse\CGDrawMouse\bin\Debug\net6.0-windows\CGDrawMouse.deps.json
+C:\Users\Administrator\Desktop\CGMouse\CGDrawMouse\CGDrawMouse\bin\Debug\net6.0-windows\CGDrawMouse.runtimeconfig.json
+C:\Users\Administrator\Desktop\CGMouse\CGDrawMouse\CGDrawMouse\bin\Debug\net6.0-windows\CGDrawMouse.dll
+C:\Users\Administrator\Desktop\CGMouse\CGDrawMouse\CGDrawMouse\bin\Debug\net6.0-windows\ref\CGDrawMouse.dll
+C:\Users\Administrator\Desktop\CGMouse\CGDrawMouse\CGDrawMouse\bin\Debug\net6.0-windows\CGDrawMouse.pdb
+C:\Users\Administrator\Desktop\CGMouse\CGDrawMouse\CGDrawMouse\obj\Debug\net6.0-windows\CGDrawMouse.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\CGMouse\CGDrawMouse\CGDrawMouse\obj\Debug\net6.0-windows\CGDrawMouse.Form1.resources
+C:\Users\Administrator\Desktop\CGMouse\CGDrawMouse\CGDrawMouse\obj\Debug\net6.0-windows\CGDrawMouse.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\CGMouse\CGDrawMouse\CGDrawMouse\obj\Debug\net6.0-windows\CGDrawMouse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\CGMouse\CGDrawMouse\CGDrawMouse\obj\Debug\net6.0-windows\CGDrawMouse.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\CGMouse\CGDrawMouse\CGDrawMouse\obj\Debug\net6.0-windows\CGDrawMouse.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\CGMouse\CGDrawMouse\CGDrawMouse\obj\Debug\net6.0-windows\CGDrawMouse.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\CGMouse\CGDrawMouse\CGDrawMouse\obj\Debug\net6.0-windows\CGDrawMouse.dll
+C:\Users\Administrator\Desktop\CGMouse\CGDrawMouse\CGDrawMouse\obj\Debug\net6.0-windows\ref\CGDrawMouse.dll
+C:\Users\Administrator\Desktop\CGMouse\CGDrawMouse\CGDrawMouse\obj\Debug\net6.0-windows\CGDrawMouse.pdb
+C:\Users\Administrator\Desktop\CGMouse\CGDrawMouse\CGDrawMouse\obj\Debug\net6.0-windows\CGDrawMouse.genruntimeconfig.cache

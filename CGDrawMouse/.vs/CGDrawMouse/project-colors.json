@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e6345906-809a-4a63-a4c9-14ac2fa95733": {
+      "ProjectGuid": "e6345906-809a-4a63-a4c9-14ac2fa95733",
+      "DisplayName": "CGDrawMouse",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
